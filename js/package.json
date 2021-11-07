@@ -18,6 +18,7 @@
     "webpack-cli": "^4.2.0"
   },
   "dependencies": {
+    "@nextcloud/vue": "^4.2.0",
     "chart.js": "^2.9.4",
     "daterangepicker": "^3.1.0",
     "jquery": "^3.5.1",
